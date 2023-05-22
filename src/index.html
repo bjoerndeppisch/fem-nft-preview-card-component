@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+
+    <title>Frontend Mentor | NFT preview card component</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles/main.scss" />
+  </head>
+
+  <body class="center">
+    <main>
+      <div class="card">
+        <div class="card__image">
+          <div class="card__image-color"></div>
+          <img
+            class="card__image-overlay"
+            src="./assets/icon-view.svg"
+            alt=""
+          />
+          <img
+            class="card__image-default"
+            src="./assets/image-equilibrium.jpg"
+            alt="nft"
+          />
+        </div>
+        <h1 class="card__title">Equilibrium #3429</h1>
+        <p class="card__description">
+          Our Equilibrium collection promotes balance and calm.
+        </p>
+        <div class="stats">
+          <p class="stats__eth-amount">0.041 ETH</p>
+          <p class="stats__time-left">3 days left</p>
+        </div>
+        <div class="creator">
+          <p>Creation of <span>Jules Wyvern</span></p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

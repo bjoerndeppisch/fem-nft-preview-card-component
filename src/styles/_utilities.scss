@@ -1,0 +1,7 @@
+/* Utilities */
+@use 'abstract' as *;
+
+.center {
+  display: grid;
+  place-content: center;
+}
