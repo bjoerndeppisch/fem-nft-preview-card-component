@@ -8,7 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- [Soulution](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
+- [Soulution](https://www.frontendmentor.io/solutions/nft-preview-card-component-sass-bem-grid-fluid-sizing-custom-props-MapEMaTuXR)
 - [Live Site](https://bjoerndeppisch-fem-nft-preview-card.netlify.app/)
 
 ### Built with
