@@ -8,8 +8,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- [Soulution]()
-- [Live Site]()
+- [Soulution](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
+- [Live Site](https://bjoerndeppisch-fem-nft-preview-card.netlify.app/)
 
 ### Built with
 
